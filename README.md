@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a new position<br>👯 I’m looking to collaborate on automation technologies<br>🤝 I’m looking for help with relocating abroad<br>🌱 I’m currently learning Java Backend Technologies<br>💬 Ask me about Industrial Automation Processes (done cheaply)<br>⚡ Fun fact I learned coding (HTML) from books before I even got my first pc
+🔭 I’m currently working on a huge .Net / Angular project<br>🤝 I’m looking for help with relocating abroad<br>💬 Ask me about Industrial Automation Processes (done cheaply)<br>⚡ Fun fact I learned coding (HTML) from books before I even got my first pc
 
 
 ## 🌐 Socials:
